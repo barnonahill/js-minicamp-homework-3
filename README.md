@@ -3,16 +3,21 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
-	* Objects
-	* Properties
+
+	* Objects:
+		Objects in JavaScript are variables that hold properties which have values. Values can be objects themselves or functions.
+	* Properties:
+		Properties in JavaScript are keys that are associated with a value. If a property's value is a function then the property is known as a method.
 	* Methods
-	* for in loop
-	* dot notation vs bracket notation
+		Methods are properties of objects that have a function for a value;
+	* for in loop:
+		for..in loops loop through the names of the properties of an object.
+	* dot notation vs bracket notation:
+		Dot Notation is used for properties of classes that we know the name of, or properties that we're instatiating. Bracket Notation is used for properties of classes that we don't know the name of.
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
-		
+
 	* git status
 	* git add --all
 	* git status
